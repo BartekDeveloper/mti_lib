@@ -1,1 +1,1 @@
-# mti_lib
+# Biblioteka MTI
